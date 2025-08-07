@@ -29,7 +29,7 @@ The platform is deployed in a **virtualized lab setup** consisting of:
 ### 1. Intrusion Detection System
 
 - **Dataset**: NSL-KDD
-- **Algorithm**: Classification (e.g., RandomForest, DecisionTree, etc.)
+- **Algorithm**: Classification RandomForest
 - **Functionality**:
   - Snort generates PCAP files at regular intervals
   - PCAP files are sent to the ML platform
