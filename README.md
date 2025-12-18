@@ -45,3 +45,5 @@ The platform is deployed in a **virtualized lab setup** consisting of:
   - The model classifies it as phishing or legitimate
 
 ---
+## Demo Video
+[Download / Watch the demo video](./Demo.mp4)
