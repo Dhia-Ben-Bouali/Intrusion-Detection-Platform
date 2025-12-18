@@ -46,4 +46,4 @@ The platform is deployed in a **virtualized lab setup** consisting of:
 
 ---
 ## Demo Video
-[![Demo Video](.demo-thumbnail.png)](https://youtu.be/x-AXOSUjqok)
+[![Demo Video](./demo-thumbnail.png)](https://youtu.be/x-AXOSUjqok)
